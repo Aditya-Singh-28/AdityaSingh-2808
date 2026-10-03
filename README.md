@@ -80,7 +80,7 @@ My goal is to consistently build projects and document my learning journey on Gi
 
 - 💼 LinkedIn: linkedin.com/in/aditya-singh-595341404
 - 📧 Email: thakuradityasingh7233@gmail.com
-- 💻 GitHub: AdityaSingh-2808
+- 💻 GitHub: Aditya-Singh-28
 
 ---
 
